@@ -1,0 +1,20 @@
+#post-body .rwmb-select-advanced {
+	height: auto;
+	min-width: 200px;
+}
+
+#post-body .rwmb-select-advanced.select2-container-multi {
+    width: 100% !important;
+}
+
+.select2-result-label img, .select2-search-choice img {
+    height: 50px;
+    display: block;
+    padding-right: 10px;
+}
+
+.select2-result-label span, .select2-search-choice span {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 5px 0;
+} 
